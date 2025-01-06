@@ -19,8 +19,11 @@ The <a href = "https://github.com/Etini2000/Akwa_Ibom_road_crashes_project/blob/
 ## Exploratory Data Analysis (EDA)
 
 Three key visualizations were created during the EDA phase:
+
 -Trend of Total Road Crashes (Q4 2020 - Q1 2024): A line chart showing the overall trend of total road crashes over the analyzed period.
+
 -Trend of Total Crashes Based on Quarters: A bar chart comparing crash counts across different quarters.
+
 -Contributing Factors to Total Crashes: A bar chart ranking factors (SPV, DAD, PWR, FTQ, etc.) by their contribution to crashes.
 
 ## Model Building
