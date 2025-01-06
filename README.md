@@ -3,7 +3,6 @@
 This project aims to predict total road crashes in Akwa Ibom State using historical data spanning from the last quarter of 2020 (Q4 2020) to the first quarter of 2024 (Q1 2024). The analysis identifies patterns in crash data and highlights contributing factors, providing insights to mitigate future accidents.
 
 ##Dataset
-
 The <a href = "https://github.com/Etini2000/Akwa_Ibom_road_crashes_project/blob/main/Nigerian_Road_Traffic_Crashes_2020_2024.csv">Dataset</a> used in this project includes the following features:
 1. Total_Crashes: Total road crashes recorded.
 2. Num_Injured: Number of people injured.
@@ -16,7 +15,7 @@ The <a href = "https://github.com/Etini2000/Akwa_Ibom_road_crashes_project/blob/
 9. Other Factors: Other contributory factors.
 10. Quarter: The quarter in which the crashes occurred(Q4 2020 to Q1 2024).
 
-##Exploratory Data Analysis (EDA)
+###Exploratory Data Analysis (EDA)
 Three key visualizations were created during the EDA phase:
 -Trend of Total Road Crashes (Q4 2020 - Q1 2024): A line chart showing the overall trend of total road crashes over the analyzed period.
 -Trend of Total Crashes Based on Quarters: A bar chart comparing crash counts across different quarters.
@@ -26,10 +25,10 @@ Three key visualizations were created during the EDA phase:
 Algorithm: 
 **Random Forest Regressor**
 
-Objective: 
+###Objective: 
 Predict total crashes using the dataset features.
 
-Model Evaluation Metrics:
+##Model Evaluation Metrics:
 **Mean Squared Error (MSE): 8.088**
 **R-squared Score: 0.817**
 
