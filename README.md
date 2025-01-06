@@ -4,7 +4,7 @@ This project aims to predict total road crashes in Akwa Ibom State using histori
 
 ## Dataset
 
-The <a href = "https://github.com/Etini2000/Akwa_Ibom_road_crashes_project/blob/main/Nigerian_Road_Traffic_Crashes_2020_2024.csv">Dataset</a> used in this project includes the following features:
+The <a href = "https://github.com/Etini2000/Akwa_Ibom_road_crashes_project/blob/main/Nigerian_Road_Traffic_Crashes_2020_2024.csv">Dataset</a> used in this project was gotten from Kaggle. It includes the following features:
 1. Total_Crashes: Total road crashes recorded.
 2. Num_Injured: Number of people injured.
 3. Num_Killed: Number of fatalities.
