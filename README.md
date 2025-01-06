@@ -39,7 +39,7 @@ _**Mean Squared Error (MSE): 8.088**
 _**R-squared Score: 0.817**
 
 The model demonstrated strong performance, with an R-squared score of 0.817, indicating that it explained 81.7% of the variance in total crashes.
-<a href = "https://github.com/Etini2000/Akwa_Ibom_road_crashes_project/blob/main/Aks_crashes_model.ipynb"></a>
+<a href = "https://github.com/Etini2000/Akwa_Ibom_road_crashes_project/blob/main/Aks_crashes_model.ipynb">Notebook</a>
 
 ## Deployment
 
