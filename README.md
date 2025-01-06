@@ -42,4 +42,4 @@ The model demonstrated strong performance, with an R-squared score of 0.817, ind
 
 ## Deployment
 
-The predictive model was deployed using <a href = "https://github.com/Etini2000/Akwa_Ibom_road_crashes_project/blob/main/Aks_crashes_ml_model.joblib">**FlaskAPI**</a>, making it accessible as a web service for querying crash predictions.
+The predictive model was deployed using <a href = "https://github.com/Etini2000/Akwa_Ibom_road_crashes_project/blob/main/Aks_crashes_ml_model.joblib">**FlaskAPI**</a>, making it accessible as a web service for querying crash predictions in realtime.
